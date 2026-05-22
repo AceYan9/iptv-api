@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-22 20:23:24,http://74.91.26.218:82/live/cctv17hd.m3u8
+2026-05-23 07:04:25,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📺央视频道,#genre#
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
@@ -48,7 +48,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 都市剧场,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 🌊港·澳·台,#genre#
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,rtmp://60.248.77.83/sat/tv701
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -61,8 +60,8 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
+少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -71,6 +70,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -89,4 +89,3 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
