@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-10 21:00:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-11 07:29:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -702,6 +702,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-3.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8

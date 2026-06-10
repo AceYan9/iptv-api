@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-10 21:00:45,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2026-06-11 07:29:20,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
 
@@ -36,6 +36,7 @@
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 
 ☘️广东频道,#genre#
+汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
