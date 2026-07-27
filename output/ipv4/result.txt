@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-27 20:58:15,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2026-07-28 07:05:45,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
 
@@ -79,6 +79,7 @@
 新动漫,rtsp://115.153.247.80/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
+火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎮游戏频道,#genre#
 
