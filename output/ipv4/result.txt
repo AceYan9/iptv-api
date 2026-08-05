@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-08-05 07:07:06,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2026-08-05 20:02:53,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
