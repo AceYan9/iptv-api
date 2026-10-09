@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-09 09:49:43,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+2026-10-10 00:53:42,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 
 📺央视频道,#genre#
 
@@ -58,7 +58,6 @@
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-江苏体育,http://api3.52tb.xyz/info?id=455&token=20221127jxwhhemby
 
 🪁动画频道,#genre#
 少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
